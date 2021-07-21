@@ -1,0 +1,1 @@
+{"active_orderers": [["orderer2", 5052], ["orderer5", 5055], ["orderer8", 5058], ["orderer6", 5056]], "inactive_orderers": [["orderer7", 5057], ["orderer9", 5059], ["orderer10", 5060], ["orderer3", 5053], ["orderer4", 5054]]}
